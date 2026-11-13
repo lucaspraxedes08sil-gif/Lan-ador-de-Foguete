@@ -9,4 +9,5 @@ def contagem_regressiva(inicio=5):
 
 
 if __name__ == "__main__":
-    contagem_regressiva()
+    tempo = int(input("Contagem inicial: "))
+    contagem_regressiva(tempo)
