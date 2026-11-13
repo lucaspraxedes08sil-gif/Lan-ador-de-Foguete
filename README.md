@@ -7,8 +7,8 @@ Projeto simples de iniciante em Python que faz a contagem regressiva de um fogue
 1. Tenha o Python 3 instalado.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/lancador-foguete.git
-   cd lancador-foguete
+   git clone https://github.com/lucaspraxedes08sil-gif/Lan-ador-de-Foguete.git
+   cd Lan-ador-de-Foguete
    ```
 3. Execute:
    ```bash
